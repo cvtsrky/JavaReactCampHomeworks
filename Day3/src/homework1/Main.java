@@ -21,6 +21,7 @@ public class Main {
 		
 		InstructorManager instructorManager = new InstructorManager();
 		instructorManager.getCourseCount(instructor1);
+		
 	}
 
 }
