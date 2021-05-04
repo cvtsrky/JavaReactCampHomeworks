@@ -7,8 +7,7 @@ public class Student extends User {
 	
 	public Student() {
 		
-	}
-	
+	}	
 	public Student(int id, String firstName, String lastName, String emailAdress, 
 			String password, int learnedCourseId, String learnedCourseName) {
 		
