@@ -1,7 +1,7 @@
 # JavaReactCampHomeworks
 
-## Kodlama.io
+## https://www.kodlama.io
 
-Software Developer Trainer Camp (Java & React)
+Java & React Bootcamp
 
 Homeworks
